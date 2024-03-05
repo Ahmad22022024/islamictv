@@ -1,9 +1,14 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "uninitialized.application.id",
-    "sha256_cert_fingerprints":
-    ["46:03:68:6A:D3:1A:BB:36:3F:D4:A0:CB:57:BB:43:2F:61:43:F9:68:95:99:8D:A8:1F:32:47:47:C6:D9:69:07"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.safwan.tv",
+      "sha256_cert_fingerprints": [
+        "A3:E0:88:78:DE:11:77:A9:41:71:4B:F1:16:81:DA:6F:C0:59:DD:58:5F:07:5B:6A:96:40:9B:D1:31:F8:A5:8B"
+      ]
+    }
   }
-}]
+]
