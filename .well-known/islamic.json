@@ -1,0 +1,44 @@
+{
+  "channels": [
+    {
+      "key": "all",
+      "text": "All",
+      "icon": "NA"
+    },
+    {
+      "key": "amz_uk",
+      "text": "Amazon UK",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/amazon.png"
+    },
+    {
+      "key": "amz_us",
+      "text": "Amazon US",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/amazon.png"
+    },
+    {
+      "key": "amz_au",
+      "text": "Amazon Australia",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/amazon.png"
+    },
+    {
+      "key": "ebay_us",
+      "text": "ebay US",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/ebay.png"
+    },
+    {
+      "key": "ebay_uk",
+      "text": "ebay UK",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/ebay.png"
+    },
+    {
+      "key": "ebay_au",
+      "text": "ebay AU",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/ebay.png"
+    },
+    {
+      "key": "wal",
+      "text": "Walmart",
+      "icon": "https://s3.us-east-2.amazonaws.com/quickprecio.com/icon/walmart.png"
+    }
+  ]
+}
